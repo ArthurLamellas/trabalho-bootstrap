@@ -1,0 +1,55 @@
+body{
+  color: #000;
+  background-color: black;
+}
+h1 {
+}
+
+.heroi{
+  font-family: 'Play', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+.serious {
+  width: 100%;
+    border-radius: 25px;
+}
+.btn {
+  background-color: #222222;
+  color: #337ab7;
+  border-color: #222222;
+}
+.imgbg {
+  z-index: -200;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.brandicon {
+  width: 30px;
+}
+
+.carousel1 {
+  width: 100%;
+}
+
+.carousel2 {
+  width: 100%;
+}
+
+.carousel3 {
+  width: 100%;
+}
+
+.titulo {
+  font-family: 'Play', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  color: #8F0000;
+}
+.well {
+  background-color: #0E0E17;
+  border: 0;
+}
